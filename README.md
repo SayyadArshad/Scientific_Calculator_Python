@@ -1,1 +1,58 @@
-# Scientific_Calculator_Python
+## Scientific Calcualtor
+
+Scientific Calculator using python 
+
+## Technologies Used:
+
+* Python
+* Tkinter
+* Math
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
